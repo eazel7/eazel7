@@ -17,7 +17,7 @@ SO, skills list:
  - CSS: I do know how to fix webpages, not how to do those super-fancy animations, just basic animations.
  - Flutter: 😶‍🌫️ just a little
  - some knowledge on networks: 📡 implemented support for IS-IS and some basic RSVP-TE in JavaScript
- - Docker, containers: I've worked with containers since before 🐋 Docker =D, so: Docker is easy. Once I used them to standardise the development environment with a web IDE in the project I was leading, that ended up being a really good move for the case.
+ - Docker, containers: I've worked with containers since before 🐋 Docker =D, so: Docker is easy. Once I used them to standardise the development environment with a web IDE in the project I was leading, that ended up being a really good move for the case. Also, 💗 loved RedHat's OpenShift. I believe Kubernetes isn't the right tool for the most cases it is in use: overly complex, usually not needed.
 
 But I've "derailed" in my free time a little building some stuff:
 
@@ -36,6 +36,7 @@ But I've "derailed" in my free time a little building some stuff:
    were hardcoded, learn a enough of ACPI source language to do that, figure out that Microsoft ASL compiler
    doesn't work that well, the Intel one does work, such an adventure!)
  - 🏠 now I am doing a little bit of an app to find the best next home for anyone
+ - 🖥️ created a app-templating system with LXC/LXD - similar to docker, before it existed
  
 Next:
  
