@@ -24,7 +24,7 @@ But I've "derailed" in my free time a little building some stuff:
  - 🏥 a medical app prototype using Kinect for Windows (many people did one of those)
  - 💶 a kiosk framework in Android that you could feed with coins and bills and get a ticket
  - 🥗 a classic app for restaurants 
- - 🧑‍💻 an offline IDE written in angular with automatic data and code syncing, templating and a few other tricks
+ - 🧑‍💻 an offline IDE written in angular with automatic data and code syncing, templating and a few other tricks which automatically produced PWAs and had live previewing (while keeping the model! it was really useful to open multiple windows and modify the HTML/CSS/JS and see it instantly apply, while being offline in a browser)
  - 🚚 (sadly, unreleased) a market plus logistics application to coordinate multipoint deliveries
  - 📷 a functional mock of a famous social network (I wanted to learn svelte)
  - 🐕 (discontinued) an app to quickly find and report lost dogs in a map
