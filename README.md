@@ -17,6 +17,7 @@ SO, skills list:
  - CSS: I do know how to fix webpages, not how to do those super-fancy animations, just basic animations.
  - Flutter: 😶‍🌫️ just a little
  - some knowledge on networks: 📡 implemented support for IS-IS and some basic RSVP-TE in JavaScript
+ - Docker, containers: I've worked with containers since before 🐋 Docker =D, so: Docker is easy. Once I used them to standardise the development environment with a web IDE in the project I was leading, that ended up being a really good move for the case.
 
 But I've "derailed" in my free time a little building some stuff:
 
