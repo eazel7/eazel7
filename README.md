@@ -37,7 +37,8 @@ But I've "derailed" in my free time a little building some stuff:
    doesn't work that well, the Intel one does work, such an adventure!)
  - 🏠 now I am doing a little bit of an app to find the best next home for anyone
  - 🖥️ created a app-templating system with LXC/LXD - similar to docker, before it existed
- 
+ - Android apps: 🤳 one old one for travelling salesmen that synced up prices and orders back when 2G coverage was scarse, with a backend written in Java for Google App Engine
+
 Next:
  
  - 🧠 I have to get ready to learn some serious AI
